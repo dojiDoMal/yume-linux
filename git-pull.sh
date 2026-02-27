@@ -1,2 +1,2 @@
 #!/bin/sh
-git subtree pull --prefix=core engine-core master
+git subtree pull --prefix=core yume-core master

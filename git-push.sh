@@ -1,2 +1,2 @@
 #!/bin/sh
-git subtree push --prefix=core engine-core master
+git subtree push --prefix=core yume-core master
