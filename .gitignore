@@ -1,0 +1,12 @@
+*.scn
+*.scnb
+*.pxs
+*.vxs
+*.spv
+*.glsl
+*.obj
+*.png
+
+build/
+logs/
+.cache/
